@@ -1,4 +1,4 @@
-# udpmavlink
+# UDPMAVlink Bridge
 This is a ported MAVESP8266 to linux, tested on Raspberry Pi Zero W. It took only around 20% CPU usage on Pi Zero W.
 Big Thank's to https://github.com/dogmaphobic for MAVESP8266 Bridge
 
